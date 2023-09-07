@@ -43,8 +43,10 @@ body{
 .target__text h1{
     font-size: 1.4rem;
     margin-bottom: 1rem;
+    color: var(--darkBlue);
 }
 .target__text p{
     font-size: 1rem;
     font-weight: 400;
+    color: var(--grayishBlue);
 }
